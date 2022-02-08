@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-
-
-Here are some ideas to get you started:
-
+- 👋 Hi, I’m @dhuruvkarn
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👀 I’m interested in ...
@@ -18,4 +14,4 @@ Here are some ideas to get you started:
 
 **dheerajkumargaur/dheerajkumargaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+
