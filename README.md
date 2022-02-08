@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer at Masai School</h3>
 
+![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
