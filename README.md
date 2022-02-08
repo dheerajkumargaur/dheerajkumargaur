@@ -2,21 +2,17 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer at Masai School</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsingh-ara&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsingh-ara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitsingh-ara" alt="sumitsingh-ara" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm**
 
-- 📫 How to reach me **sumit47919@gmail.com**
+- 📫 How to reach me **dheerajgayr539@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Badminton Player**
+- ⚡ Fun fact **I am a Table Tennis Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
