@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dheeraj-gaur-784b69110/)
@@ -54,6 +54,24 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 ## 💼 Skills
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-right:20px"/>   
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
+    <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
+    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" style="margin-right:20px"/>
+    <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
+<!--     <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/> -->
+</p>
+
+<br/>
+
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
