@@ -14,6 +14,11 @@
 
 <p align="left" width="45">
     
+    <p align="right" width="45">
+    <a  href="#"><img width="50%" height="70%" src="http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg"/></a>
+<!--     ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg) -->
+</p>
+
 - 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
@@ -28,10 +33,7 @@
 
 - ⚡ Fun fact **I am a Table Tennis Player**
     
-    <p align="right">
-    <a  href="#"><img width="50%" height="70%" src="http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg"/></a>
-<!--     ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg) -->
-</p>
+    
 
 </p>
 
