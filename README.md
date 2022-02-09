@@ -5,7 +5,10 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
 
+## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Typescript**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
 
@@ -13,7 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
 <br>
