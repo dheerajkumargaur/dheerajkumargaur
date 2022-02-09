@@ -14,9 +14,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ## 🙋‍♂️ About Me
 
 <p align="left">
-- 🌱 I’m currently learning **Data Structures,** **Algorithms,** **Mern stack and Typescript**
+- 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sumit1998-portfolio.netlify.app/)
 
