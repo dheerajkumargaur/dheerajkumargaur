@@ -20,8 +20,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sumit1998-portfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm**
-
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
@@ -76,7 +74,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&theme=gotham" alt="Dheeraj" width = "45%" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkumargaur&custom_title=dheerajkumargaur&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dheeraj" width = "45%"/>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkumargaur&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dheeraj" width = "45%"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
