@@ -1,17 +1,3 @@
-
-
-
-
-## Hey 👋, I'm Dheeraj Kumar Gaur
-
-I’m Dheeraj Kumar Gaur, a Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
@@ -30,15 +16,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit-singh-ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-singh-ara" height="30" width="40" /></a>
-<a href="https://fb.com/sumitsingharrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumitsingharrah" height="30" width="40" /></a>
-<a href="https://instagram.com/sumit_singh.ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_singh.ara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">💼 Skills & Tools:</h3>
 <p align="left"> 
@@ -100,3 +77,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-singh-ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-singh-ara" height="30" width="40" /></a>
+<a href="https://fb.com/sumitsingharrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumitsingharrah" height="30" width="40" /></a>
+<a href="https://instagram.com/sumit_singh.ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_singh.ara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
+</p>
