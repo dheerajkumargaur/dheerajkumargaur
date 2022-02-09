@@ -6,11 +6,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack, Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [here](https://sumit1998-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sumit1998-portfolio.netlify.app/)
 
 - 💬 Ask me about **Reactjs,Javascript,Data-Structures & Algorithm**
 
