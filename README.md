@@ -15,7 +15,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [![Check out my portfolio.](https://braydoncoyer.dev/)]
 ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
 
 - 🌱 I’m currently learning **Typescript**
