@@ -83,7 +83,27 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dhuruvkarn&show_icons=true&theme=gotham" alt="dhuruvkarn" width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruvkarn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dhuruvkarn" width = "45%"/>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  </p>
+ 
+ ## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhuruvkarn&theme=algolia" alt="Deepak Kumar Karn" /></p>
 
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/dhuruvkarn"><img alt="dhuruvkarn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhuruvkarn&custom_title=dhuruvkarn's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
+  
+  ## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/deepak-kumar-karn-b0bb6922a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "mailto:kumardeepak971857@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
