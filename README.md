@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-<p align="left">
+<p align="left" width="45">
     
 - 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
