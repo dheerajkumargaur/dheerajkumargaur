@@ -1,7 +1,6 @@
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dheeraj-gaur-784b69110/)
+
 
 ## Hey 👋, I'm Dheeraj Kumar Gaur
 
@@ -87,3 +86,5 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 
 
+[![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dheeraj-gaur-784b69110/)
