@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ## 🙋‍♂️ About Me
 
 <p align="left">
-- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack, Typescript**
+- 🌱 I’m currently learning **Data Structures,** **Algorithms,** **Mern stack and Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
