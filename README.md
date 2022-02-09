@@ -16,6 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
+<br>
 
 <h3 align="left">💼 Skills & Tools:</h3>
 <p align="left"> 
@@ -72,17 +73,8 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
   
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/deepak-kumar-karn-b0bb6922a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- <a href = "mailto:kumardeepak971857@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/dheeraj-gaur-784b69110//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "mailto:dheerajgaur539@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit-singh-ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-singh-ara" height="30" width="40" /></a>
-<a href="https://fb.com/sumitsingharrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumitsingharrah" height="30" width="40" /></a>
-<a href="https://instagram.com/sumit_singh.ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_singh.ara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
-</p>
