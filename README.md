@@ -10,7 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 
 
-## &#x1f4c8; GitHub Stats
+
 
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
@@ -75,22 +75,16 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkumargaur&show_icons=true&locale=en&layout=compact" alt="Dheeraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&locale=en" alt="Dheeraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumargaur&" alt="Dheeraj" /></p>
-
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dhuruvkarn&show_icons=true&theme=gotham" alt="dhuruvkarn" width = "45%" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruvkarn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dhuruvkarn" width = "45%"/>
+## &#x1f4c8; GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&theme=gotham" alt="Dheeraj" width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkumargaur&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dheeraj" width = "45%"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
  
  ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhuruvkarn&theme=algolia" alt="Deepak Kumar Karn" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumargaur&theme=algolia" alt="Dheeraj" /></p>
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
