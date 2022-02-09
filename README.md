@@ -61,24 +61,8 @@ Check back at the top of the hour for a new quote!
 <a href="https://www.hackerrank.com/sumit_singh_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumit_singh_ara" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💼 Skills & Tools:</h3>
 <p align="left"> 
-  ## 💼 Skills
-
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="margin-right:20px"/>   
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
-    <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
-    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="45" style="margin-right:20px"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin-right:20px"/>
-    <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
-
-<br/>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
