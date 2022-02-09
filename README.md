@@ -76,7 +76,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-
+<br>
 
 ## &#x1f4c8; GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&theme=gotham" alt="Dheeraj" width = "45%" />
@@ -84,6 +84,7 @@
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
+ <br>
  
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumargaur&theme=algolia" alt="Dheeraj" /></p>
@@ -100,5 +101,3 @@
 <a href = "https://www.linkedin.com/in/dheeraj-gaur-784b69110//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  <a href = "mailto:dheerajgaur539@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
-
-[![Visits Badge](https://badges.pufler.dev/visits/dheerajkumargaur/dheerajkumargaur)]
