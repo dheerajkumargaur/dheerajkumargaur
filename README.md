@@ -13,31 +13,9 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## &#x1f4c8; GitHub Stats
 
-
-
-
-
-
-## 📣 How about an Office quote before you go?
-
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
->
-> <p>- Stanley Hudson</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
-
-# Hi there 👋
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar Gaur</h1>
-<h3 align="center">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
-
+<h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
+Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
 
 - 🌱 I’m currently learning **Typescript**
