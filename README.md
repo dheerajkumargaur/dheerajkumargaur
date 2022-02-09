@@ -5,8 +5,7 @@
 </a>
 
 <h1 align="left">Hi 👋 I'm Dheeraj Kumar Gaur</h1>
-<h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+<h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
 
 
@@ -29,13 +28,15 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
     
-</p>
-
-
-<p align="right">
+    <p align="right">
     <a  href="#"><img width="50%" height="70%" src="http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg"/></a>
 <!--     ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg) -->
 </p>
+
+</p>
+
+
+
 
 <br>
 
