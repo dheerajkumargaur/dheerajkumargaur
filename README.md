@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=dheerajkumargaur">
 </a>
 
-<h1 align="center">Hi 👋, I'm Dheeraj Kumar Gaur</h1>
+<h1 align="left">Hi 👋 I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </h3>
