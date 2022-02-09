@@ -7,7 +7,9 @@
 <h1 align="left">Hi 👋 I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
-
+<p align="center">
+      <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" />
+</p>
 
 
 ## 🙋‍♂️ About Me
@@ -27,14 +29,6 @@
 - ⚡ Fun fact **I am a Table Tennis Player**
  
 </p>
-
-<p align="right" width="45">
-    <a href="https://www.adobe.com/in/products/xd.html" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a> 
-    <a  href="#"><img width="50%" height="70%" src="http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg"/></a>
-<!--     ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg) -->
-</p>
-
 
 
 <br>
