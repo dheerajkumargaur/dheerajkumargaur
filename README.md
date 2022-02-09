@@ -9,9 +9,11 @@
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </h3>
 
-![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+
 
 ## 🙋‍♂️ About Me
+
+<p align="left">
 - 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack, Typescript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -25,6 +27,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
+    
+</p>
+<p align="right">
+    ![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+</p>
+
 <br>
 
 <h3 align="left">💼 Skills & Tools:</h3>
