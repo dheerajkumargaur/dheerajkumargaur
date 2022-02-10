@@ -20,11 +20,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sumit1998-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dheerajportfolio.netlify.app/)
 
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PIMYm2b3AyngVrghc8cBpe8fyLGl9IoI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VEfqpIePWBjsMWDiZoQJkHEsJJKysuic/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
  
