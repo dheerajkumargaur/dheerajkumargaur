@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dheerajportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dheerajkumargaurportfolio.netlify.app/)
 
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
