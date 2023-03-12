@@ -70,10 +70,9 @@
 <br>
 
 ## &#x1f4c8; GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&theme=gotham" alt="Dheeraj" width = "45%" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dheerajkumargaur&show_icons=true&theme=gotham" alt="Dheeraj" width = "45%" />
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  </p>
+
  <br>
  
 ## 🔥 Streak Stats
