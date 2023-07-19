@@ -9,13 +9,13 @@
 </h3>
 
 <div>
-<p align="right" width="45%">
+<a align="right" width="45%">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
+</a>
 
 
 ## 🙋‍♂️ About Me
-<p align="left" width="45%">
+<a align="left" width="45%">
 
 - 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact **I am a Table Tennis Player**
  
-</p>
+</a>
 </div>
 
 
