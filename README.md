@@ -7,7 +7,7 @@
 <h1 align="left">Hi 👋 I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
-<p align="center">
+<p align="right" width="45">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
