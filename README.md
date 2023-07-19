@@ -7,14 +7,15 @@
 <h1 align="left">Hi 👋 I'm Dheeraj Kumar Gaur</h1>
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
-<p align="right" width="45">
+
+<div>
+<p align="right" width="45%">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 
 
 ## 🙋‍♂️ About Me
-
-<p align="left" width="45">
+<p align="left" width="45%">
 
 - 🌱 I’m currently learning **Data Structures Algorithms Mern stack and Typescript**
 
@@ -29,6 +30,7 @@
 - ⚡ Fun fact **I am a Table Tennis Player**
  
 </p>
+</div>
 
 
 <br>
