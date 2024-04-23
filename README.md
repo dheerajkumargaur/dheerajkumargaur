@@ -20,11 +20,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dheeraj-kumar-gaur-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dheeraj-gaur-portfolio.netlify.app/)
 
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18u4ZKYQCgfUUEhZIna9zgd5OLK5Qrv9A/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uQd2nw73IyTFdlj8egAnzilBrOVMby4i/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
  
@@ -82,7 +82,7 @@
   
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/dheeraj-gaur-784b69110//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/dheeraj-gaur27//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:dheerajgaur539@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://twitter.com/DheerajKumarGa2"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
