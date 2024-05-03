@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **dheerajgaur539@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uQd2nw73IyTFdlj8egAnzilBrOVMby4i/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EfVeFhkpiMwtjzAye0ndHuaGDu2er9eY/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Table Tennis Player**
  
